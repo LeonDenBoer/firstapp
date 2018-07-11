@@ -1,0 +1,51 @@
+body {
+    background-color: #c1cfff;
+}
+
+p.headers {
+    background-color: #6b9bff;
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-bottom: 10px;
+    font-weight: bold;
+    color: white;
+}
+
+.myLocation {
+    background-color: #6b9bff;
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-bottom: 10px;
+    font-weight: bold;
+    color: white;
+    cursor: pointer;
+}
+
+.login {
+    background-color: #6b9bff;
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-bottom: 10px;
+    font-weight: bold;
+    color: white;
+    cursor: pointer;
+}
+
+.countryList{
+    width:100%;
+    border-collapse:collapse;
+    background-color: #6b9bff;
+}
+
+.countryList td{
+    padding:7px;
+}
+
+.countryList tr{
+    background: #6b9bff;
+}
+
+.countryList tr:hover {
+    background-color: #c1cfff;
+    cursor: pointer;
+}
